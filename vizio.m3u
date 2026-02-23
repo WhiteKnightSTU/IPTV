@@ -3,6 +3,8 @@
 
 #EXTINF:-1 tvg-name="Oregon House Floor" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b5/Seal_of_the_Oregon_House_of_Representatives.jpg" tvg-id="ORHouseFloor" group-title="Legislative",Oregon Houses of the Representatives Floor Channel
 https://fastlylivecdn.invintus.com/9b8d936fb0c45220e98173cd8df29adc/OR-Encoder-12.stream_1080p/chunklist.m3u8
+#EXTINF:-1 tvg-name="Oregon Senate Floor" tvg-logo="https://en.wikipedia.org/wiki/Oregon_State_Senate" tvg-id="ORSenateFloor" group-title="Legislative",Oregon Senate Floor Channel
+https://fastlylivecdn.invintus.com/5ba77277b6984bd7db6bead392c82164/OR-Encoder-11.stream_1080p/chunklist.m3u8
 #EXTINF:-1 tvg-name="CPAC (EN)" tvg-logo="https://i.imgur.com/AbdFD0S.png" tvg-id="CPACEnglish.ca" group-title="Canada",CPAC (EN)
 https://d7z3qjdsxbwoq.cloudfront.net/groupa/live/f9809cea-1e07-47cd-a94d-2ddd3e1351db/live.isml/.m3u8
 #EXTINF:-1 tvg-name="Houses of the Oireachtas Channel" tvg-logo="https://i.imgur.com/aC4fsCI.png" tvg-id="OireachtasTV.ie" group-title="Ireland",Houses of the Oireachtas Channel
@@ -777,5 +779,6 @@ https://hsn-samsung-us.vizio.wurl.tv/playlist.m3u8?ads.vizdartoken=eyJhdWQiOiI5O
 https://qvc-samsung-us.vizio.wurl.tv/playlist.m3u8?ads.vizdartoken=eyJhdWQiOiI5OCIsIndmcGNpZCI6MzA3NDI3NTc1M30
 #EXTINF:-1,ShopTV
 https://vizio.b-cdn.net/vizio-abr/index.m3u8?ads.did=%7bADID%7d&ads.us_privacy=%7bUSPRIVACY%7d&ads.lmt=%7bLMT%7d&ads.ifa_type=%7bIFATYPE%7d&vizdartoken=eyJhdWQiOiIzMzEiLCJ3ZnBjaWQiOjQwODAxMjEwMDF9
+
 
 
